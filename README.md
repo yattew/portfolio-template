@@ -14,7 +14,7 @@ You can use it in your projects with due credit.
 1. You first need to replace all the lorem ipsum text with your own text.
 2. You then need to register on www.emailjs.com/ for enabling the contact me form.
 3. Now you can change the text inside of "< >" in the app.js file with your own email.js service_name and template_name and add the user_key in the html header.
-4. You may also add the links to your github/resume/linkdin under the main-card-button section in the app.js file by replacing "<link>" with the links to your websites.
+4. You may also add the links to your github/resume/linkdin under the main-card-button section in the app.js file by replacing "link" with the links to your websites.
 5. Now you are all set and all you need to do is to open the index.html
 
 
