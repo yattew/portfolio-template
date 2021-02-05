@@ -1,14 +1,10 @@
 # portfolio-template
 
-## features
+## Features
 1. This website is a single page portfolio website.
 2. This is a responsive website.
 3. It features glass design.
 4. easily customizable.
-
-This is the template code for my portfolio.
-You may use this code for making your own portfolio but you may not claim it as your own.
-You can use it in your projects with due credit.
 
 ## Instructions for using it
 1. You first need to replace all the lorem ipsum text with your own text.
@@ -21,3 +17,8 @@ You can use it in your projects with due credit.
 ## Credits
 1. The background image was taken from www.unsplash.com
 2. The icons were taken from https://freeicons.io/
+
+##
+This is the template code for my portfolio.
+You may use this code for making your own portfolio but you may not claim it as your own.
+You can use it in your projects with due credit.
